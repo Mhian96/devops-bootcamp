@@ -49,3 +49,5 @@ SELECT
     END AS [Estado Equipo]
 FROM UltimaOS
 WHERE rn = 1;
+
+-- select * from filial
