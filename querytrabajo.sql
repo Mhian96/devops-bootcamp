@@ -3,7 +3,7 @@
 WITH UltimaOS AS
 (
     SELECT
-        f.DescripcionFilial as 'Filial',
+        f.DescripcionFilial as 'Filiagggggggggggggggggl',
         os.idabonado,
         os.NumeroOS,
         pa.DscParametro as 'Estado Orden',
